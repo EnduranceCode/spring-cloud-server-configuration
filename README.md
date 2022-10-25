@@ -1,2 +1,3 @@
-# spring-cloud-server-configuration
-Stores Spring Cloud Server configuration files
+# Spring Cloud Server Configuration
+
+This repository is used to store Spring Cloud Server configuration files. It was created to store the configuration files necessary for the development made while taking the course [Master Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/). The code developed taking the mentioned course is stored at the folder [master-microservices-spring](https://github.com/EnduranceCode/microservices-learn-playground/tree/master/master-microservices-spring) of the repository [microservices-learn-playground](https://github.com/EnduranceCode/microservices-learn-playground).
